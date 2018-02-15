@@ -1,0 +1,18 @@
+h1{color:LightSlateGray}
+  h1 {font-style: normal}
+  h1 {font-size: 75px}
+  h1 {font-weight: bold}
+  h1 {font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;}
+body {background-color: white}
+h2{color: black}
+  h2 {font-size: 23px}
+  h2 {font-weight: bold;}
+  h2 {font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;}
+p {color: LightSteelBlue}
+  p {font-size: 15px}
+  p {font-weight: normal}
+  p {font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;}
+ul{color:gray}
+  ul {font-size: 15px}
+  ul {font-weight: normal}
+  ul {font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;}
